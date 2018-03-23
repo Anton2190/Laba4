@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+c:\users\2\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(20): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\2\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(72): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note:  см. объявление "getch"
